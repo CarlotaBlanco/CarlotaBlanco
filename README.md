@@ -3,8 +3,6 @@
 
 <p align="justify">Passionate about design and technology, I dedicate myself to creating all kinds of graphic pieces, from a poster or a logo to a website programmed from scratch.</p>
 
-<p align="justify">As a programmer I have worked mainly with HTML, CSS, JS, REACT and Node.js, using the Scrum framework and as a designer with Photoshop, Illustrator or Indesign.</p>
-
 <p align="justify">I offer a mixed profile and I am used to working in multidisciplinary teams and remotely, achieving the best results.</p>
 
 - 👨‍💻 All of my projects are available at [https://carlotablanco.es/](https://carlotablanco.es/)
