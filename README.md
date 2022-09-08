@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlota</h1>
 <h3 align="left">Front End Developer || Graphic Designer</h3>
 
-<p align="justify">Passionate about design and technology, I dedicate myself to creating all kinds of graphic pieces, from a poster or a logo to a website programmed from scratch.</p>
+<p align="justify">Passionate about design and technology, I dedicate myself to creating all kind of graphic pieces, from a logo to a website programmed from scratch.</p>
 
 - 👨‍💻 All of my projects are available at [https://carlotablanco.es/](https://carlotablanco.es/)
 
